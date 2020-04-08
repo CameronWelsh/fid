@@ -1,35 +1,49 @@
 			td, th { border: 0px solid #ffffff; }
 			table { border: 0px solid #ffffff; }
-			body {
-			background-color: #99999;
-			margin: 0 10%
-			font-family: sans-serif;
-			}
+
 			body {
 			background-color: #ffffff;
-			margin: 0 10%
+
 			font-family: sans-serif;
 			}
 			h1 {
 			text-align: center;
-			font-family: serif;
 			font-weight: normal;
 			font-size: 1.5em;
 			text-transform: uppercase;
 			border-bottom: 1px solid #333333;
-			margin-top: 30px;
+
 			}
 			h2 {
-			color: #99999;
-			font-size: 1em;
-
+			color: darkturquoise;
+			font-size: 1.5em;
+text-shadow: .07em .07em .1em darkslategray;
+text-align: center;
 			}
 			h3 {
 			text-align: left;
-			color: #99999;
+			color: darkturquoise;
 			font-size: .8em;
+text-shadow: .09em .09em .1em darkslategray;
 			}
 
+#software, #skills, #socialmedia{
+color: lightslategray;
+}
+
+h1{font-family: 'Open Sans Condensed', sans-serif;
+font-family: 'Raleway', sans-serif;}
+
+h2, h3, p{font-family: 'Open Sans Condensed', sans-serif;}
+
+p{
+font-size: 1em;
+text-align: center;}
+
+i{
+color: lightslategray}
+
+a{color: darkturquoise;}
 
 
   
