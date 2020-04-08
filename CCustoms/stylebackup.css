@@ -1,0 +1,150 @@
+body{
+background-color: white;
+zoom: 75%;
+}
+
+header {
+  color: #333333;
+  background:  url(images/banner2.png) no-repeat center center;
+  background-size: cover; 
+  text-align: center;
+  height: 25em;
+}
+
+#motorcycle{
+  color: #333333;
+  background:  url(images/2.png) no-repeat center center;
+  background-size: cover; 
+  text-align: center;
+  height: 75em;
+}
+
+#motorcycle2{
+  color: #333333;
+  background:  url(images/1.png) no-repeat center center;
+  background-size: cover; 
+  text-align: center;
+  height: 75em;
+}
+
+
+nav ul{
+margin: 0;
+padding: 0;
+list-style-type: none;
+display: flex;
+justify-content: space-around;
+}
+
+nav ul li {
+display: block;
+border-radius: .5em;
+padding: .5em .1em;
+margin: .5em;
+display: flex;
+justify-content: center;
+background-color: #1a1a1a;
+}
+
+
+#wedesign{
+display:flex;
+justify-content: space-around;
+align-items: stretch;
+flex: auto;
+background-color: #1a1a1a;
+color: white;
+}
+
+#wecreate{
+display:flex;
+justify-content: space-around;
+align-items: stretch;
+flex: auto;
+background-color: #333333;
+color: white;
+}
+
+#weinspire{
+display:flex;
+justify-content: space-around;
+align-items: stretch;
+flex: auto;
+background-color: #1a1a1a;
+color: white;
+font-size: 1.25em;
+}
+
+#buybutton {
+color: #333333;
+text-align: center;
+
+font-size: 1em;
+}
+
+#meetus{
+display:flex;
+padding: .5em .1em;
+justify-content: space-around;
+align-items: stretch;
+felx-wrap: wrap;
+background-color: #333333;
+color: white;
+}
+
+nav ul{
+margin: 0;
+padding: 0;
+list-style-type: none;
+display: flex;
+justify-content: space-around;
+}
+
+nav ul li {
+display: block;
+border-radius: .5em;
+padding: .5em .1em;
+margin: .5em;
+display: flex;
+justify-content: center;
+background-color: #1a1a1a;
+}
+
+
+a{
+color: white;}
+
+
+h1{
+font-family: 'Raleway', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-size: 3em;
+background-color: #1a1a1a;
+}
+
+h2{
+font-family: 'Raleway', sans-serif;
+text-align: center;
+color: black;
+font-size: 3em;
+}
+h3{
+font-family: 'Raleway', sans-serif;
+color: black;
+text-align: center;
+font-size: 5em;
+border-bottom: 2px solid white;
+}
+
+p{
+font-family: 'Raleway', sans-serif;
+font-family: 'Open Sans', sans-serif;
+margin: 2em;
+text-align: center;
+color: white;
+font-size: 3em;
+}
+
+
+
+  
