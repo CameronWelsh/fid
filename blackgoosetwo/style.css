@@ -1,7 +1,6 @@
 <!ELEMENT STYLE - - %StyleSheet        -- style info -->
 <!ATTLIST STYLE
 
-//***************	I COPY PASTED THE ABOVE FROM W3.ORG IS THAT OKAY? I COULDNT FIND OUT WHAT WAS WRONG WITH MY CODE, IT WAS WORKING LOCALLY, BUT NOT ON GIT AND I COULDNT FIND OUT WHY*******************
 
 			body {
 			background-color: wheat;
